@@ -1,0 +1,10 @@
+﻿output_pdf/
+output_sertifikat/
+output_sertifikat_sk/
+output_sertifikat_tot/
+*.pdf
+*.docx
+*.xlsx
+*.tmp
+__pycache__/
+.libreoffice_tmp/
